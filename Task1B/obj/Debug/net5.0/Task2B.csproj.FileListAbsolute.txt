@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\bin\Debug\net5.0\Task2B.exe
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\bin\Debug\net5.0\Task2B.deps.json
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\bin\Debug\net5.0\Task2B.runtimeconfig.json
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\bin\Debug\net5.0\Task2B.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\bin\Debug\net5.0\Task2B.dll
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\bin\Debug\net5.0\ref\Task2B.dll
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\bin\Debug\net5.0\Task2B.pdb
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\Task2B.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\Task2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\Task2B.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\Task2B.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\Task2B.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\Task2B.dll
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\ref\Task2B.dll
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\Task2B.pdb
+C:\Users\Adrian\Desktop\Selection_Task\Task2B\obj\Debug\net5.0\Task2B.genruntimeconfig.cache
