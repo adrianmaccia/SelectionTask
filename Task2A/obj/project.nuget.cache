@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2g/QMfrasJugxAqN7omvGov/PGwlNB/l5vAUBGs8AyPydkXLu3COVU3uoTYtDOd07BCKs9igHPjpFgXe1mLIbQ==",
+  "dgSpecHash": "HRviJMPwX5qIpLtVld92t/AiCFrtwgmPlU0XYjqhTQDlfq/6TUE2ZQ6XVvpHEKh02sTBCZfdeevbErZgrI5tNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adrian\\Desktop\\Selection_Task\\Task2A\\Task2A.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "G:\\Programming (Anh)\\Selection_Task\\Task2A\\Task2A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

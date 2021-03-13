@@ -1,0 +1,16 @@
+G:\Programming (Anh)\Selection_Task\Task1C\bin\Debug\net5.0\Task1C.exe
+G:\Programming (Anh)\Selection_Task\Task1C\bin\Debug\net5.0\Task1C.deps.json
+G:\Programming (Anh)\Selection_Task\Task1C\bin\Debug\net5.0\Task1C.runtimeconfig.json
+G:\Programming (Anh)\Selection_Task\Task1C\bin\Debug\net5.0\Task1C.runtimeconfig.dev.json
+G:\Programming (Anh)\Selection_Task\Task1C\bin\Debug\net5.0\Task1C.dll
+G:\Programming (Anh)\Selection_Task\Task1C\bin\Debug\net5.0\ref\Task1C.dll
+G:\Programming (Anh)\Selection_Task\Task1C\bin\Debug\net5.0\Task1C.pdb
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\Task1C.csprojAssemblyReference.cache
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\Task1C.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\Task1C.AssemblyInfoInputs.cache
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\Task1C.AssemblyInfo.cs
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\Task1C.csproj.CoreCompileInputs.cache
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\Task1C.dll
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\ref\Task1C.dll
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\Task1C.pdb
+G:\Programming (Anh)\Selection_Task\Task1C\obj\Debug\net5.0\Task1C.genruntimeconfig.cache

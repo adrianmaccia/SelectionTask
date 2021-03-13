@@ -30,3 +30,19 @@ C:\Users\Adrian\Desktop\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.dll
 C:\Users\Adrian\Desktop\Selection_Task\Task1A\obj\Debug\net5.0\ref\Task1A.dll
 C:\Users\Adrian\Desktop\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.pdb
 C:\Users\Adrian\Desktop\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.genruntimeconfig.cache
+G:\Programming (Anh)\Selection_Task\Task1A\bin\Debug\net5.0\Task1A.exe
+G:\Programming (Anh)\Selection_Task\Task1A\bin\Debug\net5.0\Task1A.deps.json
+G:\Programming (Anh)\Selection_Task\Task1A\bin\Debug\net5.0\Task1A.runtimeconfig.json
+G:\Programming (Anh)\Selection_Task\Task1A\bin\Debug\net5.0\Task1A.runtimeconfig.dev.json
+G:\Programming (Anh)\Selection_Task\Task1A\bin\Debug\net5.0\Task1A.dll
+G:\Programming (Anh)\Selection_Task\Task1A\bin\Debug\net5.0\ref\Task1A.dll
+G:\Programming (Anh)\Selection_Task\Task1A\bin\Debug\net5.0\Task1A.pdb
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.csprojAssemblyReference.cache
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.AssemblyInfoInputs.cache
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.AssemblyInfo.cs
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.csproj.CoreCompileInputs.cache
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.dll
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\ref\Task1A.dll
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.pdb
+G:\Programming (Anh)\Selection_Task\Task1A\obj\Debug\net5.0\Task1A.genruntimeconfig.cache

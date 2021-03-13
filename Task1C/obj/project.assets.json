@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Selection_Task\\Task1C\\Task1C.csproj",
+      "projectUniqueName": "G:\\Programming (Anh)\\Selection_Task\\Task1C\\Task1C.csproj",
       "projectName": "Task1C",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\Selection_Task\\Task1C\\Task1C.csproj",
+      "projectPath": "G:\\Programming (Anh)\\Selection_Task\\Task1C\\Task1C.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\Selection_Task\\Task1C\\obj\\",
+      "outputPath": "G:\\Programming (Anh)\\Selection_Task\\Task1C\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,12 +53,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
